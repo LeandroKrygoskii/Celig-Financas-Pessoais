@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "celig.view", "celig.view\celig.view.csproj", "{A7C6C481-E79F-495B-8B08-BD34FFBA63F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celig.Model", "Celig.Model\Celig.Model.csproj", "{ECBF5876-E389-4D83-AC3B-FFBE08CF0915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Celig.Controller", "Celig.Controller\Celig.Controller.csproj", "{641EA540-5F16-428F-AB00-F42B1406438F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CamadaDeSuporte", "CamadaDeSuporte\CamadaDeSuporte.csproj", "{B9C10BF3-052C-4029-8730-341C0E7446CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7C6C481-E79F-495B-8B08-BD34FFBA63F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7C6C481-E79F-495B-8B08-BD34FFBA63F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7C6C481-E79F-495B-8B08-BD34FFBA63F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7C6C481-E79F-495B-8B08-BD34FFBA63F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBF5876-E389-4D83-AC3B-FFBE08CF0915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBF5876-E389-4D83-AC3B-FFBE08CF0915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBF5876-E389-4D83-AC3B-FFBE08CF0915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBF5876-E389-4D83-AC3B-FFBE08CF0915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{641EA540-5F16-428F-AB00-F42B1406438F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{641EA540-5F16-428F-AB00-F42B1406438F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{641EA540-5F16-428F-AB00-F42B1406438F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{641EA540-5F16-428F-AB00-F42B1406438F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C10BF3-052C-4029-8730-341C0E7446CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C10BF3-052C-4029-8730-341C0E7446CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C10BF3-052C-4029-8730-341C0E7446CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C10BF3-052C-4029-8730-341C0E7446CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
